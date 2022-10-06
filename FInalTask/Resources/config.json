@@ -1,0 +1,4 @@
+{
+  "main_url": "http://login:password@localhost:8080/web/",
+  "api_url": "http://localhost:8080/api/"
+}
